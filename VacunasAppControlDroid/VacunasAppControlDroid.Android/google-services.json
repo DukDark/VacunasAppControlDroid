@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "916741176985",
+    "project_id": "vacunaswebapp",
+    "storage_bucket": "vacunaswebapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916741176985:android:0461a05cb965337753c208",
+        "android_client_info": {
+          "package_name": "com.companyname.appfinalgrupodos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPg2wKw7YX1rafL8YW43R_rbOrv9h6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916741176985:android:87c8bf500e04ce7a53c208",
+        "android_client_info": {
+          "package_name": "com.companyname.appvacunastesisfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916741176985-trjg6v7bt8ru8i2evsqfbje06t0qf4sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.appvacunastesisfinal",
+            "certificate_hash": "0151aeeccb3807fcd81c07bac8a4a1abe9cb1147"
+          }
+        },
+        {
+          "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPg2wKw7YX1rafL8YW43R_rbOrv9h6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916741176985:android:2151823bf172f7da53c208",
+        "android_client_info": {
+          "package_name": "com.companyname.vacunasappcontroldroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916741176985-hgf26dsj9o2qh06o45iqit2il0lkjdrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.vacunasappcontroldroid",
+            "certificate_hash": "0151aeeccb3807fcd81c07bac8a4a1abe9cb1147"
+          }
+        },
+        {
+          "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPg2wKw7YX1rafL8YW43R_rbOrv9h6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916741176985-rgds5alcojm545c0rdgu0365p8pc45gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
